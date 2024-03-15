@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CloudConfigServer/CloudConfigServer/CloudConfigServer.iml" filepath="$PROJECT_DIR$/../CloudConfigServer/CloudConfigServer/CloudConfigServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DiscoveryService/DiscoveryService/DiscoveryService.iml" filepath="$PROJECT_DIR$/../DiscoveryService/DiscoveryService/DiscoveryService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HotelService/HotelService/HotelService.iml" filepath="$PROJECT_DIR$/../HotelService/HotelService/HotelService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RatingService/RatingService/RatingService.iml" filepath="$PROJECT_DIR$/../RatingService/RatingService/RatingService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserService/UserService.iml" filepath="$PROJECT_DIR$/UserService/UserService.iml" />
+    </modules>
+  </component>
+</project>
